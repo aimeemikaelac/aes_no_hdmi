@@ -1,0 +1,5 @@
+the_ROM_image:
+{
+	/D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/design_1_wrapper.bit
+	[bootloader]/D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/fsbl/Debug/fsbl.elf
+}

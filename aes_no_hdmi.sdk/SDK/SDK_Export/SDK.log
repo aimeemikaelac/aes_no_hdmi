@@ -1,0 +1,28 @@
+22:34:13.456 INFO  - Processing command line option -hwspec /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/design_1.xml. 
+22:38:38.637 INFO  - Invoking Bootgen:  
+22:38:39.163 INFO  - Bootgen command execution is done. 
+22:54:33.299 INFO  - Processing command line option -hwspec /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/design_1.xml. 
+22:54:33.453 INFO  - The hardware specification for project 'hw_platform_0' is different from /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/design_1.xml. 
+22:54:33.506 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/design_1.xml into /hw_platform_0/system.xml. 
+22:54:33.532 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/design_1_wrapper.bit into /hw_platform_0/design_1_wrapper.bit. 
+22:54:33.907 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/ps7_init.c into /hw_platform_0/ps7_init.c. 
+22:54:33.908 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/ps7_init.h into /hw_platform_0/ps7_init.h. 
+22:54:33.928 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/ps7_init.html into /hw_platform_0/ps7_init.html. 
+22:54:33.928 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/ps7_summary.html into /hw_platform_0/ps7_summary.html. 
+22:54:33.929 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw/ps7_init.tcl into /hw_platform_0/ps7_init.tcl. 
+22:54:34.239 INFO  - Synchronizing projects in the workspace with the hardware platform specification changes. 
+22:54:48.368 INFO  - Updating hardware inferred compiler options for fsbl. 
+22:54:48.414 INFO  - Clearing existing target manager status. 
+22:54:50.602 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/ps7_init.c into /fsbl/src/ps7_init.c. 
+22:54:50.605 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/ps7_init.h into /fsbl/src/ps7_init.h. 
+22:54:50.623 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/ps7_init.html into /fsbl/src/ps7_init.html. 
+22:54:50.624 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/ps7_summary.html into /fsbl/src/ps7_summary.html. 
+22:54:50.625 INFO  - Copied contents of /D/xilinx_workspace/aes_no_hdmi/aes_no_hdmi.sdk/SDK/SDK_Export/hw_platform_0/ps7_init.tcl into /fsbl/src/ps7_init.tcl. 
+22:54:50.629 INFO  - Closing and re-opening the MSS file of ther project fsbl_bsp 
+22:54:52.555 INFO  - Workspace synchronized with the new hardware specification file. Cleaning dependent projects... 
+22:57:59.495 INFO  - Invoking Bootgen:  
+22:58:00.012 INFO  - Bootgen command execution is done. 
+22:58:20.051 INFO  - Specified output file already exists 
+22:58:22.378 INFO  - Invoking Bootgen:  
+22:58:22.887 INFO  - Bootgen command execution is done. 
+23:24:08.244 ERROR - Unexpected error while parsing XMD response ￿: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
